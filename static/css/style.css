@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	padding: 10PX;
+	background-color: black;
+	text-align: center;
+	border: 2px solid white;
+}
+#main{
+	border: 2px solid white;
+	border-radius: 50px;
+	color: ghostwhite;
+	text-shadow: 0 0 20px red;
+}
+#footer{
+	color: ghostwhite;
+	border: 2px solid whitesmoke;
+	padding: 10px;
+	text-align: center;
+}
+#home,#about,#veg,#nv,#dsr{
+	color: orangered;
+}
+button{
+
+	background: linear-gradient(45deg,lightblue,lightgreen);
+	border-radius: 50px;
+}
+#btn{
+
+	color: whitesmoke;
+	text-decoration: none;
+	padding: 10px;
+}
+#nav{
+	text-align: center;
+	color: orange;
+	margin: 10px;
+}
+a{
+	padding: 10px;
+	color: ghostwhite;
+	text-decoration: none;
+	font-size: 25px;
+}
+a:hover{
+	background: linear-gradient(45deg,lightcoral,orange);
+	border-radius: 50px;
+}
+#content{
+	color: ghostwhite;
+	text-align: center;
+}
+h2{
+	text-align: left;
+	text-shadow: 0 0 15px red;
+}
+#veg-content{
+	background-color: lightgreen;
+	color: white;
+	text-shadow: 0 0 15px red;
+}
+#just{
+	text-align: justify;
+	color: orange;
+	font-size: 15px;
+}
+#nogi{
+	text-align: justify;
+	color: skyblue;
+	font-size: 15px;
+}
+#vegi{
+	text-align: justify;
+	color: brown;
+	font-size: 15px;
+}
+img{
+	width: 270px;
+	height: 270px;
+	border-radius: 50px;
+	padding: 10px;
+}
+#Non-veg-content{
+	background-color: red;
+	color: white;
+	text-shadow: 0 0 15px lightgreen;
+}
+#desserts-content{
+	background: linear-gradient(45deg,chocolate,lightblue);
+	color: white;
+	text-shadow: 0 0 15px lightgreen;
+}
+#btn:hover{
+	background: linear-gradient(45deg,lightgreen,lightblue);
+	color: whitesmoke;
+	text-decoration: none;
+	padding: 10px;
+}
